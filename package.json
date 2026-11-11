@@ -1,0 +1,43 @@
+{
+  "name": "beautiful-python-cli",
+  "version": "1.0.0",
+  "description": "Agent Skill for designing, implementing, and refactoring Python terminal UIs using Rich",
+  "keywords": [
+    "agent-skills",
+    "skills",
+    "skills-sh",
+    "rich",
+    "python",
+    "cli",
+    "terminal-ui",
+    "tui",
+    "claude-code",
+    "cursor",
+    "codex",
+    "windsurf",
+    "antigravity"
+  ],
+  "homepage": "https://github.com/syrex1013/beautiful-python-cli#readme",
+  "bugs": {
+    "url": "https://github.com/syrex1013/beautiful-python-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syrex1013/beautiful-python-cli.git"
+  },
+  "license": "MIT",
+  "author": "syrex1013",
+  "main": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE",
+    "references",
+    "examples",
+    "install.sh",
+    "requirements.txt"
+  ],
+  "scripts": {
+    "test": "python3 -m unittest discover -s tests -p 'test_*.py'"
+  }
+}
